@@ -1,2 +1,2 @@
 # Master rad
-Merenje slicnosti u visedimenzionalnom prostoru pomocu faktorizacije matrice u masinskom ucenju
+Merenje sličnosti u višedimenzionalnom prostoru pomoću faktorizacije matrice u mašinskom učenju
